@@ -1,7 +1,7 @@
 import LineAvatars from "./LineAvatars";
 import CenteredImage from "./CenteredImage";
 import CardDescription from "./CardDescription";
-import Info from "./info";
+import Info from "./Info";
 import { useState } from "react";
 import CardProgress from "./CardProgress";
 
